@@ -6,8 +6,8 @@ which contain the code with file name saveFile.php and a folder named upload to 
 
 php code
 
-###
-<?php
+#code 
+#<?php
 	$image = $_POST['image'];
 	$name = $_POST['name'];
 	
@@ -18,3 +18,4 @@ php code
 	echo "File Uploaded.";
 	
 ?>
+#
